@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My known technologies</p>
+<p align="left">Technology Used</p>
 
 ###
 
