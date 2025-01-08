@@ -1,10 +1,14 @@
 <div align="center">
-  <img  src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Banner Image" />
+  <img height="400" src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Bikram Biswas Banner" style="width:100%; max-height:400px; />
 </div>
 
-### Hey🙋! Welcome
+###
 
-<p align="left">
+<h3 align="center">Hey🙋! Welcome</h3>
+
+###
+
+<p align="center">
 I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful and functional web applications from West Bengal, India.
 </p>
 
@@ -21,15 +25,23 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
 ### Technology Used
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
 ---
@@ -57,8 +69,8 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikram1Biswas2&show_icons=true&theme=radical" alt="Bikram's GitHub Stats" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram1Biswas2&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram1Biswas2&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
