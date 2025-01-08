@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/Ws09rHp/A-min-1.png" alt="Banner Image" />
+  <img  src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Banner Image" />
 </div>
 
 ### Hey🙋! Welcome
