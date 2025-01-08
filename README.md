@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Bikram Biswas Banner" style="width:100%; max-height:400px; />
+  <img height="400" src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Bikram Biswas Banner" />
 </div>
 
 ###
