@@ -65,3 +65,12 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
 </div>
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikram1Biswas2&show_icons=true&theme=radical" alt="Bikram's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram1Biswas2&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram1Biswas2&layout=compact&theme=radical" alt="Top Languages" />
+</div>
