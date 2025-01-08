@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
   <img height="200" src="https://i.ibb.co/Ws09rHp/A-min-1.png"  />
-</p>
+</div>
 
 ###
 
-<h2 align="left">Hey🙋! Welcome</h2>
+<h3 align="left">Hey🙋! Welcome</h3>
 
 ###
 
