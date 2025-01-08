@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Bikram Biswas Banner" />
+  <img src="https://i.ibb.co/xLQvMzG/Bikram-biswas.jpg" alt="Bikram Biswas Banner" />
 </div>
 
 ###
@@ -16,9 +16,9 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
 
 ### About Me
 
-- 🔭 **I’m currently working on**: A React-based Restaurant Management System with user and admin routes, powered by Node.js and MongoDB 🍽️.  
-- 🌱 **I’m learning**: Advanced animations with Framer Motion 💡.  
-- ⚡ **Fun fact**: I love playing cricket 🏏 and listening to music 🎧!
+- 🔭 I’m currently working on: A React-based Restaurant Management System with user and admin routes, powered by Node.js and MongoDB 🍽.  
+- 🌱 I’m learning: Advanced animations with Framer Motion 💡.  
+- ⚡ Fun fact: I love playing cricket 🏏 and listening to music 🎧!
 
 ---
 
@@ -61,16 +61,4 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
   <a href="https://www.facebook.com/your-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikram1Biswas2&show_icons=true&theme=radical" alt="Bikram's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram1Biswas2&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram1Biswas2&layout=compact&theme=radical" alt="Top Languages" />
 </div>
