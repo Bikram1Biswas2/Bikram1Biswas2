@@ -52,7 +52,7 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
 ### My Social Handles
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/bikram-biswas-077072230" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/your-id" target="_blank">
@@ -61,7 +61,7 @@ I am Bikram, a passionate Web Developer 🚀 specializing in crafting beautiful 
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/bikrm.biawas" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
 </div>
